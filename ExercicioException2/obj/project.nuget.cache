@@ -1,8 +1,13 @@
 {
   "version": 2,
-  "dgSpecHash": "EBkhn+i5rQ0=",
+  "dgSpecHash": "4rFur2N09nQ=",
   "success": true,
-  "projectFilePath": "/home/blue5050/Exerc-cioException1/ExercicioException2/ExercicioException2.csproj",
-  "expectedPackageFiles": [],
+  "projectFilePath": "C:\\Users\\alcof\\OneDrive\\Desktop\\Exerc-cioException1\\ExercicioException2\\ExercicioException2.csproj",
+  "expectedPackageFiles": [
+    "C:\\Users\\alcof\\.nuget\\packages\\microsoft.netcore.app.ref\\8.0.24\\microsoft.netcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\alcof\\.nuget\\packages\\microsoft.windowsdesktop.app.ref\\8.0.24\\microsoft.windowsdesktop.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\alcof\\.nuget\\packages\\microsoft.aspnetcore.app.ref\\8.0.24\\microsoft.aspnetcore.app.ref.8.0.24.nupkg.sha512",
+    "C:\\Users\\alcof\\.nuget\\packages\\microsoft.netcore.app.host.win-x64\\8.0.24\\microsoft.netcore.app.host.win-x64.8.0.24.nupkg.sha512"
+  ],
   "logs": []
 }
