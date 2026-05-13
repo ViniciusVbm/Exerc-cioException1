@@ -5,7 +5,8 @@ Repositório destinado à resolução da atividade de Tratamento de Exceções. 
 ## 👥 Integrantes do Grupo
 * **Vinícius Beltrão de Melo Ferraz Lima**
 * **Tiago Alcoforado Santos**
+* * **Davi Botelho Mota**
 
 ## 📂 Estrutura do Projeto
 * `ExercicioException1/`: Resolução da Questão 1 (Desenvolvido por Tiago).
-* `ExercicioException2/`: Resolução da Questão 2 - (Desenvolvido por Vinícius).
+* `ExercicioException2/`: Resolução da Questão 2 - (Desenvolvido por Vinícius e Davi).
